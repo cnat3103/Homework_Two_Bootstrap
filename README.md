@@ -15,3 +15,4 @@ Second homework task
 
 * Note - some responsive issues experienced with index.html document. Could work out how to resolve. From screen width 991px to 576px, snow leopard image and text box clash
 
+* Note - sticky footer works when rendering directly from VS Code. However, not showing when accessing through GitHub...styling and HTML shows it is there on GitHub however.
