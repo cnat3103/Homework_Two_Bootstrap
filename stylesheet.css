@@ -9,3 +9,13 @@ nav {color: ghostwhite;}
 
 button {color: ghostwhite;}
 
+.footer {
+    height: 25px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: ghostwhite;
+    color: rgb(49, 48, 48);
+    text-align: center
+}
