@@ -1,6 +1,9 @@
 # README 
    ## Title
-   Bootstrap Portfolio
+   ### Bootstrap Portfolio
+
+   ## Preview
+   ![Preview](Preview.png)
 
    ## Badges
    ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
