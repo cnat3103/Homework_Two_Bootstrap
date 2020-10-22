@@ -1,18 +1,46 @@
-# Homework_Two_Bootstrap
-Second homework task
-* Created the following files files: `index.html`, `portfolio.html` and `contact.html` in addition to a 'stylesheet.css'
-* Used Bootstrap to develop a portfolio site with the following items:
+# README 
+   ## Title
+   Bootstrap Portfolio
 
-   * A navbar
+   ## Badges
+   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-   * A responsive layout
+   ## Description
+   Developing a basic online portfolio using bootstrap as a CSS framework.
 
-   * Responsive images
+   ## Table of Contents
+   * [Installation](#Installation)
+   * [Usage](#Usage)
+   * [License](#License)
+   * [Tests](#Tests)
+   * [Contribution](#Contribution)
+   * [Collaborators](#Collaborators)
+   * [Questions](#Questions)
 
-* Note - the Bootstrap portfolio does not use media queries. I could not find a way for the media queries to add value to the task.
+
+   ## Installation
+   No installation required. 
+   
+   ## Usage
+   N/A
+
+   ## License
+   This project is licensed under the MIT license.
+
+   ## Tests
+   N/A
+
+   ## Contribution
+   There are many ways in which you can participate in the project, for example:
+
+   - Submit bugs and feature requests, and help us verify as they are checked in
+   - Review source code changes
+   - Review the documentation and make pull requests for anything from typos to new content 
+
+   ## Collaborators 
+   Prepared with that assistance of bootstrap documentation available [here](https://getbootstrap.com/)
 
 
-
-* Note - some responsive issues experienced with index.html document. Could work out how to resolve. From screen width 991px to 576px, snow leopard image and text box clash
-
-* Note - sticky footer works when rendering directly from VS Code. However, not showing when accessing through GitHub...styling and HTML shows it is there on GitHub however.
+   ## Questions
+   Email: christopher.j.natale@gmail.com.
+   Github Profile: http://github.com/cnat3103
